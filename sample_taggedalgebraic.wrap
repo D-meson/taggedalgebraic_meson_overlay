@@ -1,0 +1,8 @@
+[wrap-git]
+url = https://github.com/s-ludwig/taggedalgebraic.git
+depth = 1
+revision = v0.11.22
+
+patch_url = https://github.com/D-meson/taggedalgebraic_meson_overlay/archive/refs/tags/v0.11.zip
+patch_filename = taggedalgebraic_meson_overlay-0.11.zip
+patch_hash = 4a24afe711870e39f424a677b7335d734c46301fd7e49d7cd5a877b9426d24a7
